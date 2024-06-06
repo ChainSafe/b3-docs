@@ -1,4 +1,4 @@
-# Gaming SDK v2 Documentation
+# B3 Documentation
 
 This repository holds the source Markdown files for the [B3 Documentation](https://docs.b3.fun/).
 
