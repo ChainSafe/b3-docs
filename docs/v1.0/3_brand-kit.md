@@ -19,7 +19,7 @@ Follow these guidelines to use our brand correctly when contributing to the B3 e
 
 # Colors
 
-Don't limit yourself to just this common brand colors.  B3 invites you to be expressive with different fun, vibrant color paletes.
+Don't limit yourself to just this common brand colors.  B3 invites you to be expressive with different fun, vibrant color palettes.
 
 Primary Blue: #3368ef
 Grey: #272727
