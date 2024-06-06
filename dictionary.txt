@@ -1,12 +1,16 @@
+3368ef
+f9f9f9
 B3
 b3
 blockchain
 bridge-to-b3-testnet
 build-on-b3
 Calibre
+connect-to-testnet
 Cloudflare
 Docusaurus
 EVM
+ETH
 github
 JPG
 L3s
@@ -24,7 +28,9 @@ Semibold
 Sepolia
 SVG
 Testnet
+Testnets
 testnet
+testnets
 testnet-bridge
 testnet-explorer
 testnet-faucet
