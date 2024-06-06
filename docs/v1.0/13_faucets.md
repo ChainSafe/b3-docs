@@ -1,5 +1,5 @@
 ---
-slug: /v1/facuets
+slug: /v1/faucets
 sidebar_position: 13
 sidebar_label: Faucets
 ---

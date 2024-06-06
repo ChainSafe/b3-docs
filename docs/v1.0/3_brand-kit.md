@@ -25,7 +25,7 @@ Primary Blue: #3368ef
 Grey: #272727
 White: #f9f9f9
 
-# Brand Guidlines
+# Brand Guidelines
 
 LET IT BREATHE.
 
@@ -37,7 +37,7 @@ Keep things light, friendly, and engaging.
 
 # Fonts
 
-Import inside CSS stylesheet:
+Import inside CSS style sheet:
 @import url("https://cdn.b3.fun/fonts.css");
 
 ```jsx
