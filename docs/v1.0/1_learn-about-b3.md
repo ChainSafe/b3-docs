@@ -14,18 +14,25 @@ Our rollup network settle on BASE, ensuring B3 transactions inherit the security
 
 [Join The Community](https://b3.fun/)
 
-![](assets/learn-about-b3/bridge.png)
-
-[Bridge](https://b3.fun/)
-
-![](assets/learn-about-b3/testnet.png)
-
-[Testnet](https://docs.b3.fun/testnet)
-
-![](assets/learn-about-b3/getting-started.png)
-
-[Getting Started](https://docs.b3.fun/docs/introduction-to-b3)
-
-![](assets/learn-about-b3/tools.png)
-
-[Tools](https://docs.b3.fun/docs/node-providers)
+<!-- <div style={{ display: 'flex', justifyContent: 'space-around', flexWrap: 'wrap' }}>
+  <div style={{ textAlign: 'center', margin: '0 10px' }}>
+    <a href="https://b3.fun/">
+      <img src="/assets/learn-about-b3/bridge.png" alt="Bridge" style={{ width: '100px' }}/>
+    </a>
+  </div>
+  <div style={{ textAlign: 'center', margin: '0 10px' }}>
+    <a href="https://docs.b3.fun/testnet">
+      <img src="/assets/learn-about-b3/testnet.png" alt="Testnet" style={{ width: '100px' }}/>
+    </a>
+  </div>
+  <div style={{ textAlign: 'center', margin: '0 10px' }}>
+    <a href="https://docs.b3.fun/docs/introduction-to-b3">
+      <img src="/assets/learn-about-b3/getting-started.png" alt="Getting Started" style={{ width: '100px' }}/>
+    </a>
+  </div>
+  <div style={{ textAlign: 'center', margin: '0 10px' }}>
+    <a href="https://docs.b3.fun/docs/node-providers">
+      <img src="/assets/learn-about-b3/tools.png" alt="Tools" style={{ width: '100px' }}/>
+    </a>
+  </div>
+</div> -->
